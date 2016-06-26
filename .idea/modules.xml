@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VisualBiofeedback.iml" filepath="$PROJECT_DIR$/VisualBiofeedback.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visual-biofeedback.iml" filepath="$PROJECT_DIR$/visual-biofeedback.iml" />
     </modules>
   </component>
 </project>
